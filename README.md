@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Toh Pin Ren, a second-year Computer Science undergraduate student at the National University of Singapore (NUS).
+I'm Pin Ren Toh, a third-year (Junior) Computer Science undergraduate student at the National University of Singapore (NUS).
 
 I'm deeply passionate about building highly efficient systems that can scale gracefully to tackle real-world problems.
 
