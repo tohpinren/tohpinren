@@ -4,9 +4,7 @@ I'm a final-year Computer Science student at the National University of Singapor
 
 Currently seeking **full-time software engineering opportunities starting Summer 2026**.
 
----
-
-## 🔧 Skills & Interests
+## Skills & Interests
 
 - **Languages:** Python, C++, Java, TypeScript
 - **Technologies:** React, Node.js, MongoDB, AWS (EC2, S3), PostgreSQL
