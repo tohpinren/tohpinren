@@ -13,8 +13,8 @@ Currently seeking **full-time software engineering opportunities starting Summer
 
 ## Links
 
-- 🌐 [Portfolio Website](https://tohpinren.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tohpinren/)
+- [Portfolio Website](https://tohpinren.com)
+- [LinkedIn](https://www.linkedin.com/in/tohpinren/)
 
 ---
 
