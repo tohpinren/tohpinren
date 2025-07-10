@@ -1,10 +1,24 @@
-### Hi there 👋
+### 👋 Hi, I’m Pin Ren Toh
 
-I'm Pin Ren Toh, a third-year (Junior) Computer Science undergraduate student at the National University of Singapore (NUS).
+I'm a final-year Computer Science student at the National University of Singapore (NUS), specializing in Artificial Intelligence. I'm passionate about building practical AI systems and distributed infrastructure.
 
-I'm deeply passionate about building highly efficient systems that can scale gracefully to tackle real-world problems.
+Currently seeking **full-time software engineering opportunities starting Summer 2026**.
 
-In my free time, I like trying out different foods and engaging in various sports. Traveling to new places brings me joy, and I have a deep appreciation for hiking and the beauty of nature. I also enjoy taking photos and watching films.
+---
+
+## 🔧 Skills & Interests
+
+- **Languages:** Python, C++, Java, TypeScript
+- **Technologies:** React, Node.js, MongoDB, AWS (EC2, S3), PostgreSQL
+- **Domains:** AI/ML, LLMs, multimodal pipelines, data infrastructure, distributed systems
+- **Tools:** Git, Docker, VSCode, Linux
+
+## Links
+
+- 🌐 [Portfolio Website](https://tohpinren.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tohpinren/)
+
+---
 
 <!--
 **tohpinren/tohpinren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
