@@ -1,34 +1,43 @@
-### 👋 Hi, I’m Pin Ren Toh
+# 👋 Hi, I’m Pin Ren Toh
 
-I'm a final-year Computer Science student at the National University of Singapore (NUS), specializing in Artificial Intelligence. I'm passionate about building practical AI systems and distributed infrastructure.
+Final-year Computer Science student at the **National University of Singapore (NUS)** · Focused on **backend engineering and AI systems**.  
+I build **backend** and **AI systems** that transform **unstructured data** into **structured, reliable workflows** across domains like **healthcare** and **procurement**.
 
-Currently seeking **full-time software engineering opportunities starting Summer 2026**.
+Currently seeking **full-time Software Engineering roles (backend/ML infra) starting Summer 2026**.
 
-## Skills & Interests
+---
 
-- **Languages:** Python, C++, Java, TypeScript
-- **Technologies:** React, Node.js, MongoDB, AWS (EC2, S3), PostgreSQL
-- **Domains:** AI/ML, LLMs, multimodal pipelines, data infrastructure, distributed systems
-- **Tools:** Git, Docker, VSCode, Linux
-
-## Links
-
-- [Portfolio Website](https://tohpinren.com)
+## Quick Links
+- [Website](https://www.tohpinren.com)  
 - [LinkedIn](https://www.linkedin.com/in/tohpinren/)
 
 ---
 
-<!--
-**tohpinren/tohpinren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
+- **CoreFlint** – AI procurement automation (RFQs/POs → ERP).  
+  *Python, FastAPI, LLMs*  
+  → Automated line-item extraction with human-in-the-loop review; improved accuracy and reduced manual entry effort.  
 
-Here are some ideas to get you started:
+- **Kipo AI Pipeline** – Multimodal document extraction.  
+  *Python, FastAPI, Redis, MongoDB, LLMs, AWS, Docker*  
+  → Designed an OCR + vision + LLM pipeline for electronics datasheets.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SQL Mutation Testing for NL-to-SQL Benchmarks (BIRD)**  
+  *Python, PostgreSQL, SQLite, LLMs*  
+  → Building mutation testing framework for NL-to-SQL benchmarks; highlights insufficiency of execution-only equivalence checks.
+
+---
+
+## Skills
+- **Languages & Databases:** Python, JavaScript, Java, SQL (PostgreSQL/MySQL), MongoDB, Redis  
+- **Backend:** FastAPI, REST APIs
+- **AI/ML:** LLMs, multimodal pipelines, retrieval-augmented generation
+- **Infra & Tools:** AWS (EC2, S3, SageMaker), Docker, CI/CD, GitHub Actions, PyTest
+
+---
+
+## Contact
+Feel free to reach out for collaboration or opportunities:  
+**tohpinren@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tohpinren/) · [Website](https://www.tohpinren.com)
+
+---
