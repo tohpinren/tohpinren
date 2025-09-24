@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pin Ren Toh
 
-Final-year Computer Science student at the **National University of Singapore (NUS)**
+Final-year Computer Science student at the **National University of Singapore (NUS)**.
 Focused on **backend engineering and AI systems**.  
 I build **backend** and **AI systems** that transform **unstructured data** into **structured, reliable workflows** across domains like **healthcare** and **procurement**.
 
@@ -23,7 +23,7 @@ Currently seeking **full-time Software Engineering roles (backend/ML infra) star
   *Python, FastAPI, Redis, MongoDB, LLMs, AWS, Docker*  
   → Designed an OCR + vision + LLM pipeline for electronics datasheets.  
 
-- **SQL Mutation Testing for NL-to-SQL Benchmarks (BIRD)**  
+- **SQL Mutation Testing for NL-to-SQL Benchmarks** – Final Year Research Project, supervised by Prof. Manuel Rigger.  
   *Python, PostgreSQL, SQLite, LLMs*  
   → Building mutation testing framework for NL-to-SQL benchmarks; highlights insufficiency of execution-only equivalence checks.
 
