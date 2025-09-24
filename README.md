@@ -1,16 +1,10 @@
 # 👋 Hi, I’m Pin Ren Toh
 
-Final-year Computer Science student at the **National University of Singapore (NUS)**.
+Final-year Computer Science student at the **National University of Singapore (NUS)**.  
 Focused on **backend engineering and AI systems**.  
 I build **backend** and **AI systems** that transform **unstructured data** into **structured, reliable workflows** across domains like **healthcare** and **procurement**.
 
 Currently seeking **full-time Software Engineering roles (backend/ML infra) starting Summer 2026**.
-
----
-
-## Quick Links
-- [Website](https://www.tohpinren.com)  
-- [LinkedIn](https://www.linkedin.com/in/tohpinren/)
 
 ---
 
